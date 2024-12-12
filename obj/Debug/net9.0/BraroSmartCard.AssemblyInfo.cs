@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BraroSmartCard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c42f4ac8d184b89f8ceb89bc608d1a51b7468e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BraroSmartCard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BraroSmartCard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

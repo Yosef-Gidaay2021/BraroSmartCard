@@ -22,3 +22,4 @@ C:\Users\yosef\BrarosmartCardTest\BraroSmartCard\obj\Debug\net9.0\refint\BraroSm
 C:\Users\yosef\BrarosmartCardTest\BraroSmartCard\obj\Debug\net9.0\BraroSmartCard.pdb
 C:\Users\yosef\BrarosmartCardTest\BraroSmartCard\obj\Debug\net9.0\BraroSmartCard.genruntimeconfig.cache
 C:\Users\yosef\BrarosmartCardTest\BraroSmartCard\obj\Debug\net9.0\ref\BraroSmartCard.dll
+C:\Users\yosef\BrarosmartCardTest\BraroSmartCard\obj\Debug\net9.0\BraroSmartCard.sourcelink.json
